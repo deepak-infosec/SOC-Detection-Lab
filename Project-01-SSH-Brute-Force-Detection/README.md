@@ -153,7 +153,7 @@ Splunk successfully:
 
 ### 2. Authentication Log Ingestion
 
-![Authentication Log Ingestion](screenshots/authlog-ingestion.png.jpeg)
+![Authentication Log Ingestion](screenshots/authlog-ingestion.png)
 
 ---
 
@@ -165,7 +165,12 @@ Splunk successfully:
 
 ### 4. Splunk Dashboard
 
-![Splunk Dashboard](screenshots/dashboard.png.jpeg)
+![Splunk Dashboard](screenshots/dashboard.png)
+
+
+
+---
+
 ## Lessons Learned
 
 - Simulated an SSH brute-force attack in a controlled lab.
