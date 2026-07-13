@@ -20,11 +20,11 @@ Log Source | /var/log/auth.log |
 
 SOC-Detection-Lab/
 │
-├── Project-01-SSH-Brute-Force-Detection
-├── Project-02-Port-Scan-Detection
-├── Project-03-Reverse-Shell-Detection
-├── Project-04-Custom-Log-Detection
-└── Project-05-End-to-End-SOC-Simulation
+├── Project-01-SSH-Brute-Force-Detection/
+├── Project-02-Port-Scan-Detection/
+├── Project-03-Reverse-Shell-Detection/
+├── Project-04-Custom-Log-Detection/
+└── Project-05-End-to-End-SOC-Simulation/
 
 
 
