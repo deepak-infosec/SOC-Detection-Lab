@@ -1,23 +1,4 @@
-## Screenshots
-
-### 1. Hydra SSH Brute Force Attack
-
-![Hydra Attack](screenshots/hydra-attack.png)
-
----
-
-### 2. Authentication Log Ingestion
-
-![Authentication Log Ingestion](screenshots/authlog-ingestion.png.jpeg)
-
----
-
-### 3. Failed Password Detection
-
-![Failed Password Detection](screenshots/failed-password-detection.png)
-
----
-
-### 4. Splunk Dashboard
-
-![Splunk Dashboard](screenshots/dashboard.png.jpeg)
+01-hydra-attack.png
+02-authlog-ingestion.png
+03-failed-password-detection.png
+04-dashboard.png
