@@ -143,27 +143,29 @@ Splunk successfully:
 - Security Event Investigation
 
 ---
-
 ## Screenshots
 
 ### 1. Hydra SSH Brute Force Attack
 
-(Add Screenshot)
-
-### 2. Authentication Log Ingestion
-
-(Add Screenshot)
-
-### 3. Failed Password Detection
-
-(Add Screenshot)
-
-### 4. Splunk Dashboard
-
-(Add Screenshot)
+![Hydra Attack](screenshots/hydra-attack.png)
 
 ---
 
+### 2. Authentication Log Ingestion
+
+![Authentication Log Ingestion](screenshots/authlog-ingestion.png.jpeg)
+
+---
+
+### 3. Failed Password Detection
+
+![Failed Password Detection](screenshots/failed-password-detection.png)
+
+---
+
+### 4. Splunk Dashboard
+
+![Splunk Dashboard](screenshots/dashboard.png.jpeg)
 ## Lessons Learned
 
 - Simulated an SSH brute-force attack in a controlled lab.
