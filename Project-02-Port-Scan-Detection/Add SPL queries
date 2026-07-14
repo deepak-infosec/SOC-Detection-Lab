@@ -1,1 +1,42 @@
 
+# Splunk Queries
+
+## View Imported Log
+
+```spl
+source="portscan.log"
+```
+
+---
+
+## Count Captured Packets
+
+```spl
+source="portscan.log"
+| stats count
+```
+
+---
+
+## Search SYN Packets
+
+```spl
+source="portscan.log" "Flags [S]"
+```
+
+---
+
+## Search Destination Port
+
+```spl
+source="portscan.log" "22"
+```
+
+---
+
+## Dashboard Query
+
+```spl
+source="portscan.log"
+| stats count AS "Captured Packets"
+```
